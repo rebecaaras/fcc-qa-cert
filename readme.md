@@ -1,6 +1,6 @@
 <a href="https://www.freecodecamp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" width="400"></a>
 
-# FreeCodeCamp - JavaScript Algorithms and Data Structures
+# FreeCodeCamp - Quality Assurance Certification
 
 This are the files developed dudring the [FreeCodeCamp Quality Assurance](https://www.freecodecamp.org/learn/quality-assurance/).
 
